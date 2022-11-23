@@ -1,6 +1,6 @@
 ---
 application:
-  name: "filerenamebot"
+  name: "luffyrenamebot"
   project: "renamebot"
   organization: "QoveryCommunity"
 databases:
@@ -8,8 +8,8 @@ databases:
   name: "renamebotsj"
   version: "8.0"
 routers:
-- name: "main-filerenamebot"
+- name: "main-luffyrenamebot"
   routes:
-  - application_name: "filerenamebot"
+  - application_name: "luffyrenamebot"
     paths:
     - "/*"
