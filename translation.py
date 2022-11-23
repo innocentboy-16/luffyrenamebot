@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , \nI'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail And Custom Caption support!</b> \n
 
-<b>Bot Maintained By: </b><a href='https://t.me/innocentboy_16'>Mr. Saksham</a> \n 
+<b>Bot Maintained By: </b>@innocentboy_16 \n 
 """
 
     BANNED_USER_TEXT = "Sorry!! But Saksham has Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @innocentboy_16 For more Details.. " 
